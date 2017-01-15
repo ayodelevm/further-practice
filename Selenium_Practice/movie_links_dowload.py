@@ -14,7 +14,7 @@ all_season = cdriver.find_elements_by_partial_link_text('Season 0')
 
 for a in all_season:
     a.click()
-    time.sleep(3)
+    time.sleep(5)
     
     old_new = cdriver.find_element_by_xpath('/html/body/div/div[9]/a[1]')
     old_new.click()

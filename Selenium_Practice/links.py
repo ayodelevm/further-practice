@@ -1,7 +1,7 @@
 http://download2.tvshows4mobile.com/Scorpion/Season%2001/Scorpion%20-%20S01E01%20(O2TvSeries.Com).mp4
 http://download1.tvshows4mobile.com/Scorpion/Season%2001/Scorpion%20-%20S01E02%20(O2TvSeries.Com).mp4
 http://download1.tvshows4mobile.com/Scorpion/Season%2001/Scorpion%20-%20S01E03%20(O2TvSeries.Com).mp4
-http://download1.tvshows4mobile.com/Scorpion/Season%2001/Scorpion%20-%20S01E04%20(O2TvSeries.Com).mp4
+
 
 http://download2.tvshows4mobile.com/Limitless/Season%2001/Limitless%20-%20S01E20%20(TvShows4Mobile.Com).mp4
 
